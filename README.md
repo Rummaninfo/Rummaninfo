@@ -20,7 +20,8 @@ I enjoy turning ideas into powerful full-stack solutions — from clean UI to ro
 - 🔭 Currently working with **JavaScript, React, Tailwind CSS, Node.js, Express & MongoDB**  
 - 🌱 Learning **advanced React patterns**, **TypeScript**, and modern backend best practices  
 - 💡 Passionate about exploring new tools, improving UI/UX and optimizing performance  
-- ⚡ Fun fact: I can spend hours perfecting a feature until everything feels just right 😄  
+- ⚡ Fun fact: I can spend hours perfecting a feature until everything feels just right 😄
+- ✉️ siamahmed166815@gmail.com
 
 ---
 
