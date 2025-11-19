@@ -21,7 +21,7 @@ I enjoy turning ideas into powerful full-stack solutions — from clean UI to ro
 - 🌱 Learning **advanced React patterns**, **TypeScript**, and modern backend best practices  
 - 💡 Passionate about exploring new tools, improving UI/UX and optimizing performance  
 - ⚡ Fun fact: I can spend hours perfecting a feature until everything feels just right 😄
-- ✉️ siamahmed166815@gmail.com
+- ✉️ Contact:  siamahmed166815@gmail.com
 
 ---
 
